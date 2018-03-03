@@ -1,0 +1,11 @@
+img{
+    width: 200px;}
+body {
+        text-align: center; 
+        font-family: "Arial";
+        background: linear-gradient(#b7b5ff,#ffb4dd);
+        width: 100vw;
+        height: 100vh;
+        margin: 0px 0px 0px 0px;
+        overflow: hidden;
+}
